@@ -51,5 +51,5 @@ Welcome to my GitHub! I am a 4th-year IT student at the Academy of Cryptographic
 
 ### 📫 Connect with me
 
-* **LinkedIn:** [https://www.linkedin.com/in/nh%E1%BA%ADt-l%C3%AA-254191288/]
-* **Email:** [nhatbarry@gmail.com]
+* **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/nh%E1%BA%ADt-l%C3%AA-254191288/)
+* **Email:** [nhatbarry@email.com](mailto:nhatbarry@email.com)
